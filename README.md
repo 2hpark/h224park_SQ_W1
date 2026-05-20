@@ -19,4 +19,4 @@ This is a static scene with no player interaction.
 ## References
 [1] Captain Galaxy. 2025. The Exit 8 Logo[digital image]. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:The_Exit_8_logo.svg
 
-[2] 
+[2] Floor & Decor. [n.d]. Bright White Ice Ceramic Wall Tile[digital image]. Floor & Decor. https://www.flooranddecor.com/explore-fireplaces/bright-white-ice-ceramic-wall-tile-914100889.html?srsltid=AfmBOoo88nWn25XpVezTSmFsIvxEfY0gMVGklrhKns8DgiDInqS6O4q2
