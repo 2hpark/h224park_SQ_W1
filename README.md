@@ -17,3 +17,6 @@ This is a static scene with no player interaction.
 - exit8.png — Exit 8 sign image
 
 ## References
+[1] Captain Galaxy. 2025. The Exit 8 Logo[digital image]. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:The_Exit_8_logo.svg
+
+[2] 
