@@ -13,9 +13,10 @@ A static p5.js scene inspired by the horror game Exit 8. The project recreates a
 This is a static scene with no player interaction.
 
 ## Assets
-- wall.jpg — original image used for hallway wall
-- exit8.png — Exit 8 sign image
-
+| File | Source |
+|------|--------|
+| `exit8.png` | Captain Galaxy, Wikimedia Commons |
+| `wall.jpg` | Floor & Decor |
 ## References
 [1] Captain Galaxy. 2025. The Exit 8 Logo[digital image]. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:The_Exit_8_logo.svg
 
