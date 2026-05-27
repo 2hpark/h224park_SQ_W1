@@ -15,8 +15,8 @@ This is a static scene with no player interaction.
 ## Assets
 | File | Source |
 |------|--------|
-| `exit8.png` | Captain Galaxy, Wikimedia Commons |
-| `wall.jpg` | Floor & Decor |
+| `exit8.png [1]` | Captain Galaxy, Wikimedia Commons |
+| `wall.jpg [2]` | Floor & Decor |
 ## References
 [1] Captain Galaxy. 2025. The Exit 8 Logo[digital image]. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:The_Exit_8_logo.svg
 
